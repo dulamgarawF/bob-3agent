@@ -1,0 +1,17 @@
+.agent-information-bg{
+	position: absolute;
+	width: 300px;
+	height: 120px;
+	background-color: rgb(220,220,220);
+}
+.agent-information-title{
+	height: 20px;
+	text-align: center;
+	background-color: rgb(100,100,100);
+	color: white;
+	margin-top: -0.4%;
+}
+.agent-information-txt{
+	margin-left: 20px;
+	margin-right: 20px;
+}
