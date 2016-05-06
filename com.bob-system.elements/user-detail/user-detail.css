@@ -1,0 +1,52 @@
+.user-detail-bg{
+	width: 8%;
+	height: 100%;
+}
+.user-derail-img{
+	float: left;
+}
+.ud-user-information{
+	padding: 190px 160px;
+	margin-top: -178px;
+	background-color: rgb(222,222,222);
+}
+.ud-information-info{
+	float: right;
+	position: absolute;
+	width: 178px;
+	height: 138px;
+	margin-top: -168px;
+	margin-left: -22px;
+	background-color: rgb(222,222,222);
+	box-shadow: 0 0 1px 1px rgba(0,0,0,.35);
+}
+.ud-information-info p{
+	margin-left: 3%;
+	margin-right: 3px;
+	text-align: center;
+}
+.ud-statistic{
+	position: absolute;
+	width: 19.2%;
+	margin-left: 0.5%;
+	height: 10%;
+	margin-top: -211px;
+	background-color: rgba(150,250,255,0.4);
+	box-shadow: 0 0 1px 1px rgba(0,0,0,.35);
+}
+.ud-rate-same-pro{
+	position: absolute;
+	width: 23%;
+	margin-left: -0.06%;
+	height: 38%;
+	margin-top: -128px;
+	font-size: 8px;
+	/*background-color: rgba(150,250,255,0.4);
+	box-shadow: 0 0 1px 1px rgba(0,0,0,.35);*/
+}
+.ud-rate-inner{
+	width: 22%;
+	height: 180%;
+	float: left;
+	display: inline-block;
+}
